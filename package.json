@@ -1,7 +1,7 @@
 {
   "name": "@theyahia/tochka-bank-mcp",
-  "version": "1.0.0",
-  "description": "MCP server for Tochka Bank Business API — accounts, payments, counterparties, company info",
+  "version": "1.0.1",
+  "description": "MCP server for Tochka Bank — business accounts, payments, counterparties (Russia)",
   "type": "module",
   "main": "dist/index.js",
   "bin": {
@@ -21,7 +21,8 @@
     "russian-api",
     "banking",
     "business",
-    "typescript"
+    "typescript",
+    "api"
   ],
   "author": "theYahia",
   "license": "MIT",
